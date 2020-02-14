@@ -8,4 +8,8 @@
 const express = require("express")
 const app = express()
 
+app.get("/", (req, res) => {
+    res.send("BROKEN HEARTS")
+})
+
 app.listen(process.env.PORT)
