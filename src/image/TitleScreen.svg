@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="202px" height="96px" viewBox="0 0 202 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>TitleScreen</title>
+    <desc>Created with Sketch.</desc>
+    <g id="TitleScreen" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Card" transform="translate(50.000000, 48.000000) scale(-1, 1) translate(-50.000000, -48.000000) translate(0.000000, -8.000000)">
+            <path d="M27.6564555,11 L92.6564555,11 C95.4178793,11 97.1227858,13.2385763 96.4644709,16 L77.3927161,96 C76.7344012,98.7614237 73.9621552,101 71.2007315,101 L6.20073147,101 C3.43930772,101 1.73440119,98.7614237 2.39271614,96 L21.4644709,16 C22.1227858,13.2385763 24.8950318,11 27.6564555,11 Z" id="Rectangle" stroke="#DCDCDC" stroke-width="6" fill="#E55A5A"></path>
+            <g id="Vert" transform="translate(8.700731, 10.000000)" stroke="#525252">
+                <path d="M60.6191985,90.5 L82.194121,0" id="Path-Copy-6"></path>
+                <path d="M50.6191985,90.5 L72.194121,0" id="Path-Copy-5"></path>
+                <path d="M40.6191985,90.5 L62.194121,0" id="Path-Copy-4"></path>
+                <path d="M30.6191985,90.5 L52.194121,0" id="Path-Copy-3"></path>
+                <path d="M20.6191985,90.5 L42.194121,0" id="Path-Copy-2"></path>
+                <path d="M10.6191985,90.5 L32.194121,0" id="Path-Copy"></path>
+                <path d="M0.619198467,90.5 L22.194121,0" id="Path"></path>
+            </g>
+            <g id="Horz" transform="translate(49.813635, 55.885407) scale(-1, 1) rotate(79.000000) translate(-49.813635, -55.885407) translate(1.313635, 14.885407)" stroke="#525252">
+                <path d="M71.4462685,77.3221347 L90.4979481,0.593710157" id="Path-Copy-13"></path>
+                <path d="M81.2332528,74.6314069 L96.1261119,15.3156256" id="Path-Copy-15"></path>
+                <path d="M61.4681606,77.3191577 L80.263483,1.98544117" id="Path-Copy-12"></path>
+                <path d="M51.4900526,77.3161807 L70.0290179,3.37717218" id="Path-Copy-11"></path>
+                <path d="M41.5119447,77.3132037 L58.438127,6.31320373" id="Path-Copy-10"></path>
+                <path d="M31.5338367,77.3102267 L48.4600191,6.31022674" id="Path-Copy-9"></path>
+                <path d="M21.4208648,78.6854365 L38.4819111,6.30724976" id="Path-Copy-8"></path>
+                <path d="M9.99658907,80.2389636 L28.5038032,6.30427277" id="Path-Copy-7"></path>
+                <path d="M0.785570488,81.4915215 L18.5256952,6.30129579" id="Path-Copy-14"></path>
+            </g>
+            <path d="M27.6564555,11 L92.6564555,11 C95.4178793,11 97.1227858,13.2385763 96.4644709,16 L77.3927161,96 C76.7344012,98.7614237 73.9621552,101 71.2007315,101 L6.20073147,101 C3.43930772,101 1.73440119,98.7614237 2.39271614,96 L21.4644709,16 C22.1227858,13.2385763 24.8950318,11 27.6564555,11 Z" id="Rectangle-Copy" stroke="#DCDCDC" stroke-width="6"></path>
+            <g id="Heart" transform="translate(32.000000, 40.000000)">
+                <path d="M13.0654191,32 C21.9019751,32 30.7731622,24.836556 32.8797701,16 C34.9863779,7.163444 29.530677,0 20.694121,0 C11.857565,0 2.98637792,7.163444 0.879770058,16 C-1.2268378,24.836556 4.22886312,32 13.0654191,32 Z" id="Oval" fill="#E7E7E7"></path>
+                <path d="M17.2584822,10.4361319 C15.0925945,6.31514691 13.1727976,5.94268148 11.4990913,9.31873564 C9.82538507,12.6947898 10.8306622,17.5617365 14.5149227,23.9195757 L15.7198813,16.8900774 L17.3990954,13" id="Half-1" fill="#E55A5A"></path>
+                <path d="M19.686625,10.2893112 C23.988107,6.33874404 26.0770514,6.07191062 25.9534584,9.48881091 C25.8298654,12.9057112 22.2809184,17.6526522 15.3066175,23.7296338 L17.0541727,17.3657783 L19.4866919,13 L19.686625,10.2893112 Z" id="Half-2" fill="#E55A5A"></path>
+            </g>
+        </g>
+        <g id="Title" transform="translate(30.500000, 4.500000)" fill="#B01313" font-family="Copperplate" font-weight="normal" stroke="#E4E4E4" stroke-width="1.5">
+            <text id="brok" font-size="29">
+                <tspan x="0" y="22">brok</tspan>
+            </text>
+            <text id="EN" font-size="32">
+                <tspan x="70" y="26.5">EN</tspan>
+            </text>
+            <text id="Hearts" font-size="37">
+                <tspan x="41" y="44.5">Hearts</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

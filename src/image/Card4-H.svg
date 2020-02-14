@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="130px" viewBox="0 0 100 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Card4-H</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Card4-H" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F0F0F0" x="0" y="0" width="100" height="130" rx="5"></rect>
+        <g id="Suits/Heart" transform="translate(4.000000, 3.000000)" fill="#FF6969">
+            <path d="M4.8400372,1.5723503 C2.27848414,-0.182170503 0.704855468,-0.37428727 0.119151202,0.995999998 C-0.466553063,2.36628727 1.1070756,5.3676206 4.8400372,10 C8.80428508,5.4956157 10.4843215,2.49428236 9.88014659,0.995999998 C9.27597163,-0.502282365 7.59593517,-0.310165599 4.8400372,1.5723503 Z" id="Path-2"></path>
+        </g>
+        <text id="4" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="-2" fill="#FF6969">
+            <tspan x="14" y="13">4</tspan>
+        </text>
+        <g id="Group" transform="translate(86.500000, 118.000000) scale(-1, -1) translate(-86.500000, -118.000000) translate(76.000000, 108.000000)" fill="#FF6969">
+            <g id="Suits/Heart" transform="translate(0.000000, 5.000000)">
+                <path d="M4.8400372,1.5723503 C2.27848414,-0.182170503 0.704855468,-0.37428727 0.119151202,0.995999998 C-0.466553063,2.36628727 1.1070756,5.3676206 4.8400372,10 C8.80428508,5.4956157 10.4843215,2.49428236 9.88014659,0.995999998 C9.27597163,-0.502282365 7.59593517,-0.310165599 4.8400372,1.5723503 Z" id="Path-2"></path>
+            </g>
+            <text id="4" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="-2">
+                <tspan x="10" y="15">4</tspan>
+            </text>
+        </g>
+        <g id="Suits/Heart" transform="translate(41.000000, 56.000000)" fill="#FF6969">
+            <path d="M8.71206697,2.83023054 C4.10127144,-0.327906906 1.26873984,-0.673717085 0.214472164,1.7928 C-0.839795514,4.25931708 1.99273609,9.66171708 8.71206697,18 C15.8477131,9.89210825 18.8717788,4.48970825 17.7842639,1.7928 C16.6967489,-0.904108257 13.6726833,-0.558298077 8.71206697,2.83023054 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>

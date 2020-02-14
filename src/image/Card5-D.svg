@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="130px" viewBox="0 0 100 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Card5-D</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Card5-D" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F0F0F0" x="0" y="0" width="100" height="130" rx="5"></rect>
+        <g id="Suits/Diamond" transform="translate(4.000000, 3.000000)" fill="#FF6969">
+            <path d="M4.8709522,0 C3.9261747,1.94282721 2.48770915,3.60949387 0.555555556,5 C2.39839313,6.3959004 3.83685868,8.06256707 4.8709522,10 C6.21621311,8.06256707 7.75694007,6.3959004 9.49313308,5 C7.5341421,3.60949387 5.99341514,1.94282721 4.8709522,0 Z" id="Path-2"></path>
+        </g>
+        <text id="5" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="-2" fill="#FF6969">
+            <tspan x="14" y="13">5</tspan>
+        </text>
+        <g id="Group" transform="translate(86.500000, 118.000000) scale(-1, -1) translate(-86.500000, -118.000000) translate(76.000000, 108.000000)" fill="#FF6969">
+            <g id="Suits/Diamond" transform="translate(0.000000, 5.000000)">
+                <path d="M4.8709522,0 C3.9261747,1.94282721 2.48770915,3.60949387 0.555555556,5 C2.39839313,6.3959004 3.83685868,8.06256707 4.8709522,10 C6.21621311,8.06256707 7.75694007,6.3959004 9.49313308,5 C7.5341421,3.60949387 5.99341514,1.94282721 4.8709522,0 Z" id="Path-2"></path>
+            </g>
+            <text id="5" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="-2">
+                <tspan x="10" y="15">5</tspan>
+            </text>
+        </g>
+        <g id="Suits/Diamond" transform="translate(41.000000, 56.000000)" fill="#FF6969">
+            <path d="M8.76771396,0 C7.06711446,3.49708897 4.47787647,6.49708897 1,9 C4.31710763,11.5126207 6.90634562,14.5126207 8.76771396,18 C11.1891836,14.5126207 13.9624921,11.5126207 17.0876395,9 C13.5614558,6.49708897 10.7881472,3.49708897 8.76771396,0 Z" id="Path-2"></path>
+        </g>
+    </g>
+</svg>

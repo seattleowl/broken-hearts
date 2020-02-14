@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="130px" viewBox="0 0 100 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Card4-C</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Card4-C" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F0F0F0" x="0" y="0" width="100" height="130" rx="5"></rect>
+        <g id="Suits/Club" transform="translate(4.000000, 3.000000)" fill="#404040">
+            <path d="M5.85108628,10 C5.74409359,9.61496369 5.69930243,9.30552976 5.71671279,9.07169819 C5.73412316,8.83786663 5.82855223,8.4806339 6,8 L4,8 C4.15712377,8.48739864 4.25181087,8.84463137 4.28406133,9.07169819 C4.31631178,9.29876501 4.31631178,9.60819895 4.28406133,10 L5.85108628,10 Z" id="Path-2" transform="translate(5.000000, 9.000000) rotate(-180.000000) translate(-5.000000, -9.000000) "></path>
+            <circle id="Oval-Copy-2" cx="5" cy="3" r="2.5"></circle>
+            <circle id="Oval-Copy-4" cx="7" cy="6.5" r="2.5"></circle>
+            <circle id="Oval-Copy-3" cx="3" cy="6.5" r="2.5"></circle>
+        </g>
+        <text id="4" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="-2" fill="#404040">
+            <tspan x="14" y="13">4</tspan>
+        </text>
+        <g id="Group" transform="translate(86.500000, 118.000000) scale(-1, -1) translate(-86.500000, -118.000000) translate(76.000000, 108.000000)" fill="#404040">
+            <g id="Suits/Club" transform="translate(0.000000, 5.000000)">
+                <path d="M5.85108628,10 C5.74409359,9.61496369 5.69930243,9.30552976 5.71671279,9.07169819 C5.73412316,8.83786663 5.82855223,8.4806339 6,8 L4,8 C4.15712377,8.48739864 4.25181087,8.84463137 4.28406133,9.07169819 C4.31631178,9.29876501 4.31631178,9.60819895 4.28406133,10 L5.85108628,10 Z" id="Path-2" transform="translate(5.000000, 9.000000) rotate(-180.000000) translate(-5.000000, -9.000000) "></path>
+                <circle id="Oval-Copy-2" cx="5" cy="3" r="2.5"></circle>
+                <circle id="Oval-Copy-4" cx="7" cy="6.5" r="2.5"></circle>
+                <circle id="Oval-Copy-3" cx="3" cy="6.5" r="2.5"></circle>
+            </g>
+            <text id="4" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="-2">
+                <tspan x="10" y="15">4</tspan>
+            </text>
+        </g>
+        <g id="Suits/Club" transform="translate(41.000000, 56.000000)" fill="#404040">
+            <path d="M10.5319553,18 C10.3393685,17.3069346 10.2587444,16.7499536 10.290083,16.3290567 C10.3214217,15.9081599 10.491394,15.265141 10.8,14.4 L7.2,14.4 C7.48282278,15.2773176 7.65325957,15.9203365 7.71131039,16.3290567 C7.7693612,16.737777 7.7693612,17.2947581 7.71131039,18 L10.5319553,18 Z" id="Path-2" transform="translate(9.000000, 16.200000) rotate(-180.000000) translate(-9.000000, -16.200000) "></path>
+            <circle id="Oval-Copy-2" cx="9" cy="5.4" r="4.5"></circle>
+            <circle id="Oval-Copy-4" cx="12.6" cy="11.7" r="4.5"></circle>
+            <circle id="Oval-Copy-3" cx="5.4" cy="11.7" r="4.5"></circle>
+        </g>
+    </g>
+</svg>
