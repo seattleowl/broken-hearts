@@ -12,6 +12,6 @@ app.get("/", (req, res) => {
     res.sendFile(__dirname + "/src/html/index.html")
 })
 
-app.use("/src", express.static("/src"))
+app.use("/src", express.static("src"))
 
 app.listen(process.env.PORT)
