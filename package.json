@@ -1,0 +1,26 @@
+{
+  "name": "broken-hearts",
+  "version": "1.0.0",
+  "description": "A real-time card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seattleowl/broken-hearts.git"
+  },
+  "keywords": [
+    "real-time",
+    "card-game"
+  ],
+  "author": "OwL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seattleowl/broken-hearts/issues"
+  },
+  "homepage": "https://github.com/seattleowl/broken-hearts#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
